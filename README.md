@@ -28,49 +28,14 @@ To get started with this project locally:
 
 ## 📸 Screenshots
 
-### Customer's Side
+![image](https://github.com/user-attachments/assets/9814c238-5563-44bc-8b68-024b7f1bf28d)
+![image](https://github.com/user-attachments/assets/b4f8085c-251e-4241-93c6-89fbe02accc8)
+![image](https://github.com/user-attachments/assets/d3efd26e-b904-43ee-9f99-aea8e9465a62)
+![image](https://github.com/user-attachments/assets/c3d988a5-1d3d-4799-905e-7638a4df622c)
+![image](https://github.com/user-attachments/assets/fc99e0ab-7be3-4926-9bcd-c7bfaac3c216)
+![image](https://github.com/user-attachments/assets/419d6054-6e80-4054-adb4-231ee238ff0b)
 
-#### Login and Registration
 
-<img src="./imgs/LoginAndSignUp.png" alt="Login and Registration" width="500px"/>
-
-#### Dashboard
-
-<img src="./imgs/CustomerDashboard.png" alt="Customer Dashboard" width="200px"/>
-
-#### Rent a Car
-
-<img src="./imgs/RentCar.png" alt="Rent Car" width="200px"/>
-
-#### Payment
-
-<img src="./imgs/StripeAPI-Payment.png" alt="Payment" width="200px"/>
-
-#### Contracts
-
-<img src="./imgs/PersonalContracts.png" alt="Contracts" width="500px"/>
-
-#### Profile
-
-<img src="./imgs/CustomerProfile.png" alt="Profile" width="200px"/>
-
----
-
-### Admin's Side
-
-#### Dashboard
-
-<img src="./imgs/BlockUsers.png" alt="Admin Dashboard" width="500px"/>
-
-#### Edit Car Details
-
-<img src="./imgs/EditCarDetails.png" alt="Edit Car Details" width="500px"/>
-
-#### Manage Contracts
-
-<img src="./imgs/CustomerHappyFlow.png" alt="Manage Contracts" width="500px"/>
-
----
 
 ## 📂 Folder Structure
 
