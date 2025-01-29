@@ -1,50 +1,30 @@
-# Car Rental Management App
+# Car Rental App
 
-This repository contains the **Car Rental Management App**, a comprehensive Android application developed to streamline operations in the car rental industry for both customers and administrators.
+This is a Car Rental app developed using **Android Studio**. The app allows users to rent cars, view available vehicles, and book them for specific dates. It also includes features like user authentication, booking management, and displaying car details.
 
----
+## Features
 
-## 📖 About
+- **User Authentication**: Users can log in or register using their credentials.
+- **Car Listings**: View available cars for rent with details such as car model, price, and features.
+- **Booking System**: Users can select a car, specify rental dates, and proceed with booking.
+- **Search Filters**: Filter cars based on model, price range, and availability.
+- **User Profile**: View user details, booking history, and current rental information.
 
-The **Car Rental Management App** is designed to simplify car rental processes through features like user authentication, car management, rental bookings, and secure payment processing. Built using modern tools and technologies, the app provides a seamless experience for both customers and administrators.
+## Technologies Used
 
----
+- **Android Studio**: Used for building the app.
+- **Java**: Programming language used for development.
+- **Firebase**: Used for user authentication, data storage, and real-time updates.
+- **Google Maps API**: Integrated for location-based features.
 
-# 🚫 Project Status: Closed
+## Installation
 
-This project scored **76.67%** during evaluation.
-This project is no longer under active development. **Please download and experience it yourself.** Consider it as a **reference project** for learning and inspiration. Contributions or updates will not be made.
+To get started with this project locally:
 
----
+1. Clone the repository:
 
-## 📝 Key Features
-
-### **Customer's Side**
-
-- **User Authentication**: Secure login and registration using Firebase Authentication.
-- **Car Search and Details**: Browse and search for cars based on brand, model, pricing, and availability.
-- **Car Rental Process**: Book cars for specific rental periods.
-- **Payment Options**: Make secure payments using Stripe API.
-- **Post-Rental Management**: View rental contracts and manage personal account details.
-
-### **Admin's Side**
-
-- **Car Management**: Add, edit, view, and update car details.
-- **Contract Oversight**: Manage and update customer rental contracts.
-- **User Management**: View and block user accounts.
-
----
-
-## 💻 Technologies Used
-
-- **Frontend**: XML (UI design), Java (business logic), Gradle (build automation).
-- **Backend**:
-  - Firebase Authentication for user login.
-  - Firebase Storage for managing car images.
-  - APIs: Stripe for payments, Google Location, and Google Calendar for bookings.
-- **Tools**: Android Studio, Firebase Console, GitHub.
-
----
+   ```bash
+   git clone https://github.com/Ingrideyouadeu/Car-Rental-App.git
 
 ## 📸 Screenshots
 
